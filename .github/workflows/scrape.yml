@@ -14,7 +14,11 @@ jobs:
         with:
           node-version: 20
       - run: npm install
-      - run: node scraper.js
+      - name: Run Scraper
+        run: node scraper.js
+        env:
+          # This connects your GitHub Secret to the script
+          SCRAPEOPS_API_KEY: ${{ secrets.SCRAPEOPS_API_KEY }}
       - name: Commit and Push
         run: |
           git config --global user.name "Scraper Bot"
