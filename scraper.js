@@ -1,47 +1,34 @@
 const axios = require('axios');
 const fs = require('fs');
 const { create } = require('xmlbuilder2');
-const { wrapper } = require('axios-cookiejar-support');
-const { CookieJar } = require('tough-cookie');
 
-const jar = new CookieJar();
-const client = wrapper(axios.create({ 
-    jar, 
-    withCredentials: true,
-    headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
-        'Accept-Encoding': 'gzip, deflate, br',
-        'Accept-Language': 'en-US,en;q=0.9',
-        'Connection': 'keep-alive',
+// Access the key from GitHub Secrets
+const SCRAPEOPS_API_KEY = process.env.SCRAPEOPS_API_KEY;
+
+async function fetchWithScrapeOps() {
+    if (!SCRAPEOPS_API_KEY) {
+        console.error("❌ Error: SCRAPEOPS_API_KEY is missing from environment variables.");
+        process.exit(1);
     }
-}));
 
-async function fetchWithRetry() {
     try {
-        console.log("Step 1: Visiting NSE Homepage to get cookies...");
-        await client.get("https://www.nseindia.com/");
-        
-        // Wait 2 seconds to mimic human behavior
-        await new Promise(resolve => setTimeout(resolve, 2000));
-
-        console.log("Step 2: Fetching ETF API data...");
-        const response = await client.get("https://www.nseindia.com/api/etf", {
-            headers: {
-                'Referer': 'https://www.nseindia.com/market-data/exchange-traded-funds-etf',
-                'X-Requested-With': 'XMLHttpRequest'
+        console.log("Connecting to ScrapeOps Proxy...");
+        const response = await axios.get('https://proxy.scrapeops.io/v1/', {
+            params: {
+                'api_key': SCRAPEOPS_API_KEY,
+                'url': 'https://www.nseindia.com/api/etf',
+                'render_js': 'true',
+                'residential': 'true',
+                'country': 'in' // Specifically use an Indian IP
             }
         });
 
         if (response.data && response.data.data) {
             saveToXml(response.data.data, response.data.timestamp);
-            console.log("✅ Success! XML generated.");
-        } else {
-            console.log("⚠️ No data found in response.");
+            console.log("✅ Success: Data fetched via Proxy and saved.");
         }
     } catch (error) {
-        console.error(`❌ 403 Error: NSE is still blocking the request.`);
-        console.error(`Tip: If this persists, GitHub's IP range might be temporarily blacklisted by NSE.`);
+        console.error(`❌ ScrapeOps Failed: ${error.message}`);
         process.exit(1);
     }
 }
@@ -55,10 +42,11 @@ function saveToXml(dataList, timestamp) {
             .ele('Symbol').txt(item.symbol || '').up()
             .ele('LTP').txt(item.ltP || '0').up()
             .ele('PercentChange').txt(item.per || '0').up()
+            .ele('Value_Cr').txt(item.trdVal ? (parseFloat(item.trdVal)/10000000).toFixed(2) : "0").up()
         .up();
     });
 
     fs.writeFileSync('nse_etf_data.xml', root.end({ prettyPrint: true }));
 }
 
-fetchWithRetry();
+fetchWithScrapeOps();
