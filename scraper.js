@@ -2,57 +2,59 @@ const axios = require('axios');
 const fs = require('fs');
 const { create } = require('xmlbuilder2');
 
-// Access the key from GitHub Secrets
-const SCRAPEOPS_API_KEY = process.env.SCRAPEOPS_API_KEY;
+const API_KEY = process.env.SCRAPEOPS_API_KEY;
 
-async function fetchWithScrapeOps() {
-    if (!SCRAPEOPS_API_KEY) {
-        console.error("❌ Error: SCRAPEOPS_API_KEY is missing.");
+async function runScraper() {
+    if (!API_KEY) {
+        console.error("❌ SCRAPEOPS_API_KEY is missing from GitHub Secrets.");
         process.exit(1);
     }
 
     try {
-        console.log("Connecting to ScrapeOps with Ultra-Stealth settings...");
+        console.log("🚀 Launching Headless Browser via ScrapeOps...");
+        
         const response = await axios.get('https://proxy.scrapeops.io/v1/', {
             params: {
-                'api_key': SCRAPEOPS_API_KEY,
+                'api_key': API_KEY,
                 'url': 'https://www.nseindia.com/api/etf',
-                'render_js': 'true',      // Runs a real browser in the cloud
-                'residential': 'true',    // Uses a home IP address, not a data center
-                'country': 'in',          // Forces an Indian IP address
-                'wait': '5000'            // Waits 5 seconds for NSE to "accept" the bot
-            }
+                'render_js': 'true',      // Runs Chrome to solve security challenges
+                'residential': 'true',    // Uses a home internet IP in India
+                'country': 'in',          // Mandatory for NSE access
+                'wait': '10000'           // Waits 10s for the page to fully authorize
+            },
+            timeout: 60000 // 1 minute timeout for the cloud browser
         });
 
-        // ScrapeOps with render_js=true might return the data differently
-        // If response.data.data exists, we use it. 
-        if (response.data && response.data.data) {
-            saveToXml(response.data.data, response.data.timestamp);
-            console.log("✅ Success: Block bypassed!");
+        // The API returns the JSON directly inside response.data
+        const etfData = response.data.data;
+
+        if (etfData && Array.isArray(etfData)) {
+            generateXML(etfData, response.data.timestamp);
+            console.log(`✅ Success! Data for ${etfData.length} ETFs captured.`);
         } else {
-            // Sometimes render_js returns the full JSON inside a string or body
-            console.log("⚠️ Data structure unexpected. Log:", JSON.stringify(response.data).substring(0, 100));
+            throw new Error("Received empty or invalid data format from NSE.");
         }
     } catch (error) {
-        console.error(`❌ Still Blocked: ${error.message}`);
-        console.log("Try checking your ScrapeOps dashboard to see if credits are being used.");
+        console.error(`❌ Final Error: ${error.message}`);
         process.exit(1);
     }
 }
-function saveToXml(dataList, timestamp) {
-    const root = create({ version: '1.0', encoding: 'UTF-8' }).ele('NSE_ETF_Data');
-    root.ele('GeneratedAt').txt(timestamp).up();
 
-    dataList.forEach(item => {
+function generateXML(data, timestamp) {
+    const root = create({ version: '1.0', encoding: 'UTF-8' }).ele('NSE_ETF_Data');
+    root.ele('GeneratedAt').txt(timestamp || new Date().toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' })).up();
+
+    data.forEach(item => {
         root.ele('ETF')
-            .ele('Symbol').txt(item.symbol || '').up()
+            .ele('Symbol').txt(item.symbol || 'N/A').up()
             .ele('LTP').txt(item.ltP || '0').up()
+            .ele('Change').txt(item.chn || '0').up()
             .ele('PercentChange').txt(item.per || '0').up()
-            .ele('Value_Cr').txt(item.trdVal ? (parseFloat(item.trdVal)/10000000).toFixed(2) : "0").up()
+            .ele('Volume').txt(item.trdQty || '0').up()
         .up();
     });
 
     fs.writeFileSync('nse_etf_data.xml', root.end({ prettyPrint: true }));
 }
 
-fetchWithScrapeOps();
+runScraper();
