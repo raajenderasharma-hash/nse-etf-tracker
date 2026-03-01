@@ -22,7 +22,7 @@ async function runScraper() {
                 'country': 'in',          // Mandatory for NSE access
                 'wait': '10000'           // Waits 10s for the page to fully authorize
             },
-            timeout: 60000 // 1 minute timeout for the cloud browser
+            timeout: 120000 // 2 minute timeout for the cloud browser
         });
 
         // The API returns the JSON directly inside response.data
