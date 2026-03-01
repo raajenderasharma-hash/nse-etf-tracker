@@ -1,10 +1,11 @@
-name: Hourly NSE Scraper
+name: Daily NSE ETF Update
 on:
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    # 04:30 UTC is 10:00 AM IST (India Market Hours)
+    - cron: '30 4 * * *'
+  workflow_dispatch: # Allows manual run for testing
 jobs:
-  scrape:
+  update_data:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -13,16 +14,15 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: npm install
+      - run: npm install axios xmlbuilder2
       - name: Run Scraper
         run: node scraper.js
         env:
-          # This connects your GitHub Secret to the script
           SCRAPEOPS_API_KEY: ${{ secrets.SCRAPEOPS_API_KEY }}
-      - name: Commit and Push
+      - name: Save Data to Repo
         run: |
-          git config --global user.name "Scraper Bot"
+          git config --global user.name "NSE-Bot"
           git config --global user.email "bot@github.com"
           git add nse_etf_data.xml
-          git commit -m "Auto-update ETF data" || exit 0
+          git commit -m "Daily ETF Data Update [$(date)]" || exit 0
           git push
