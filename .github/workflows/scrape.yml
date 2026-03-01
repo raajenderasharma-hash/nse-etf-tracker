@@ -1,0 +1,24 @@
+name: Hourly NSE Scraper
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install
+      - run: node scraper.js
+      - name: Commit and Push
+        run: |
+          git config --global user.name "Scraper Bot"
+          git config --global user.email "bot@github.com"
+          git add nse_etf_data.xml
+          git commit -m "Auto-update ETF data" || exit 0
+          git push
