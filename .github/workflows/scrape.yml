@@ -1,28 +1,39 @@
 name: Daily NSE ETF Update
+
 on:
   schedule:
-    # 04:30 UTC is 10:00 AM IST (India Market Hours)
-    - cron: '23 12 * * *'
-  workflow_dispatch: # Allows manual run for testing
+    # 4:45 UTC is 10:15 AM IST (Allows market to settle)
+    - cron: '30 4 * * *'
+  workflow_dispatch: # THIS ENABLES THE "RUN WORKFLOW" BUTTON
+  push:
+    branches: [ main ] # Runs whenever you change the code
+
 jobs:
-  update_data:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: 20
-      - run: npm install axios xmlbuilder2
+          node-version: '20'
+
+      - name: Install Dependencies
+        run: npm install axios xmlbuilder2
+
       - name: Run Scraper
-        run: node scraper.js
         env:
           SCRAPEOPS_API_KEY: ${{ secrets.SCRAPEOPS_API_KEY }}
-      - name: Save Data to Repo
+        # If the API fails, it will wait 60s and try one more time
+        run: node scraper.js || (sleep 60 && node scraper.js)
+
+      - name: Commit and Push XML
         run: |
-          git config --global user.name "NSE-Bot"
-          git config --global user.email "bot@github.com"
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
           git add nse_etf_data.xml
-          git commit -m "Daily ETF Data Update [$(date)]" || exit 0
+          git commit -m "Automated Data Update: $(date)" || echo "No changes to commit"
           git push
+          
