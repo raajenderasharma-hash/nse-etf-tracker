@@ -2,7 +2,7 @@ name: Daily NSE ETF Update
 on:
   schedule:
     # 04:30 UTC is 10:00 AM IST (India Market Hours)
-    - cron: '30 4 * * *'
+    - cron: '23 12 * * *'
   workflow_dispatch: # Allows manual run for testing
 jobs:
   update_data:
