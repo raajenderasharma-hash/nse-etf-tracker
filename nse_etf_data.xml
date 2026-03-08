@@ -18,7 +18,7 @@
     <NAV>-</NAV>
     <High52W>360</High52W>
     <Low52W>77.55</Low52W>
-    <Change30dPercent>-7.08</Change30dPercent>
+    <Change30dPercent>4.37</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GOLDBEES</Symbol>
@@ -37,7 +37,7 @@
     <NAV>-</NAV>
     <High52W>148.14</High52W>
     <Low52W>65.85</Low52W>
-    <Change30dPercent>0.94</Change30dPercent>
+    <Change30dPercent>4.47</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>LIQUIDBEES</Symbol>
@@ -75,7 +75,7 @@
     <NAV>-</NAV>
     <High52W>35.1</High52W>
     <Low52W>8.56</Low52W>
-    <Change30dPercent>-7.59</Change30dPercent>
+    <Change30dPercent>4.11</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>NIFTYBEES</Symbol>
@@ -94,7 +94,7 @@
     <NAV>-</NAV>
     <High52W>302.25</High52W>
     <Low52W>231.3</Low52W>
-    <Change30dPercent>-4.94</Change30dPercent>
+    <Change30dPercent>-4.51</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GOLDIETF</Symbol>
@@ -113,7 +113,7 @@
     <NAV>-</NAV>
     <High52W>158</High52W>
     <Low52W>69.71</Low52W>
-    <Change30dPercent>0.36</Change30dPercent>
+    <Change30dPercent>2.66</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SILVERIETF</Symbol>
@@ -132,7 +132,7 @@
     <NAV>-</NAV>
     <High52W>373.5</High52W>
     <Low52W>88.8</Low52W>
-    <Change30dPercent>-7.12</Change30dPercent>
+    <Change30dPercent>4.07</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>LIQUIDCASE</Symbol>
@@ -151,7 +151,7 @@
     <NAV>-</NAV>
     <High52W>113.08</High52W>
     <Low52W>102</Low52W>
-    <Change30dPercent>0.39</Change30dPercent>
+    <Change30dPercent>0.38</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>HDFCSILVER</Symbol>
@@ -170,7 +170,7 @@
     <NAV>-</NAV>
     <High52W>359</High52W>
     <Low52W>85.67</Low52W>
-    <Change30dPercent>-7.35</Change30dPercent>
+    <Change30dPercent>3.74</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SETFGOLD</Symbol>
@@ -189,7 +189,7 @@
     <NAV>-</NAV>
     <High52W>153.95</High52W>
     <Low52W>64.96</Low52W>
-    <Change30dPercent>0.57</Change30dPercent>
+    <Change30dPercent>4.06</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>HDFCGOLD</Symbol>
@@ -208,7 +208,7 @@
     <NAV>-</NAV>
     <High52W>152.3</High52W>
     <Low52W>70.1</Low52W>
-    <Change30dPercent>0.67</Change30dPercent>
+    <Change30dPercent>4.06</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>LIQUIDIETF</Symbol>
@@ -246,7 +246,7 @@
     <NAV>-</NAV>
     <High52W>17.7</High52W>
     <Low52W>7.14</Low52W>
-    <Change30dPercent>0.85</Change30dPercent>
+    <Change30dPercent>3.65</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MODEFENCE</Symbol>
@@ -265,7 +265,7 @@
     <NAV>-</NAV>
     <High52W>102</High52W>
     <Low52W>58</Low52W>
-    <Change30dPercent>7.45</Change30dPercent>
+    <Change30dPercent>9.66</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GOLD1</Symbol>
@@ -284,7 +284,7 @@
     <NAV>-</NAV>
     <High52W>155</High52W>
     <Low52W>68.01</Low52W>
-    <Change30dPercent>0.91</Change30dPercent>
+    <Change30dPercent>4.59</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>BANKBEES</Symbol>
@@ -303,7 +303,7 @@
     <NAV>-</NAV>
     <High52W>638.99</High52W>
     <Low52W>490</Low52W>
-    <Change30dPercent>-3.82</Change30dPercent>
+    <Change30dPercent>-3.76</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>LIQUIDADD</Symbol>
@@ -322,7 +322,7 @@
     <NAV>-</NAV>
     <High52W>1121.66</High52W>
     <Low52W>1052.08</Low52W>
-    <Change30dPercent>0.39</Change30dPercent>
+    <Change30dPercent>0.38</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>LIQUIDETF</Symbol>
@@ -360,7 +360,7 @@
     <NAV>-</NAV>
     <High52W>1123.29</High52W>
     <Low52W>1006.15</Low52W>
-    <Change30dPercent>0.4</Change30dPercent>
+    <Change30dPercent>0.39</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SBISILVER</Symbol>
@@ -379,7 +379,7 @@
     <NAV>-</NAV>
     <High52W>362</High52W>
     <Low52W>86</Low52W>
-    <Change30dPercent>-7.31</Change30dPercent>
+    <Change30dPercent>3.5</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>CASHIETF</Symbol>
@@ -398,7 +398,7 @@
     <NAV>-</NAV>
     <High52W>1064.57</High52W>
     <Low52W>1001.47</Low52W>
-    <Change30dPercent>0.4</Change30dPercent>
+    <Change30dPercent>0.39</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SILVER</Symbol>
@@ -417,7 +417,7 @@
     <NAV>-</NAV>
     <High52W>371.89</High52W>
     <Low52W>89</Low52W>
-    <Change30dPercent>-6.96</Change30dPercent>
+    <Change30dPercent>2.87</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GOLDCASE</Symbol>
@@ -436,7 +436,7 @@
     <NAV>-</NAV>
     <High52W>27.94</High52W>
     <Low52W>12.83</Low52W>
-    <Change30dPercent>0.93</Change30dPercent>
+    <Change30dPercent>4.15</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>LIQUIDPLUS</Symbol>
@@ -455,7 +455,7 @@
     <NAV>-</NAV>
     <High52W>1240.88</High52W>
     <Low52W>994.83</Low52W>
-    <Change30dPercent>0.4</Change30dPercent>
+    <Change30dPercent>0.39</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SILVERCASE</Symbol>
@@ -474,7 +474,7 @@
     <NAV>-</NAV>
     <High52W>38.01</High52W>
     <Low52W>9</Low52W>
-    <Change30dPercent>-7.49</Change30dPercent>
+    <Change30dPercent>3.32</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>ITBEES</Symbol>
@@ -493,7 +493,7 @@
     <NAV>-</NAV>
     <High52W>44.27</High52W>
     <Low52W>32.7</Low52W>
-    <Change30dPercent>-17.27</Change30dPercent>
+    <Change30dPercent>-16.73</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>LIQUIDBETF</Symbol>
@@ -512,7 +512,7 @@
     <NAV>-</NAV>
     <High52W>1207.5</High52W>
     <Low52W>989.99</Low52W>
-    <Change30dPercent>0.38</Change30dPercent>
+    <Change30dPercent>0.37</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>NIFTYIETF</Symbol>
@@ -531,7 +531,7 @@
     <NAV>-</NAV>
     <High52W>328.24</High52W>
     <Low52W>234.97</Low52W>
-    <Change30dPercent>-4.91</Change30dPercent>
+    <Change30dPercent>-4.53</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GOLDETF</Symbol>
@@ -550,7 +550,7 @@
     <NAV>-</NAV>
     <High52W>173.5</High52W>
     <Low52W>78.03</Low52W>
-    <Change30dPercent>0.73</Change30dPercent>
+    <Change30dPercent>3.74</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>CPSEETF</Symbol>
@@ -569,7 +569,7 @@
     <NAV>-</NAV>
     <High52W>105.39</High52W>
     <Low52W>74.9</Low52W>
-    <Change30dPercent>3.76</Change30dPercent>
+    <Change30dPercent>3.89</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>JUNIORBEES</Symbol>
@@ -588,7 +588,7 @@
     <NAV>-</NAV>
     <High52W>777</High52W>
     <Low52W>616</Low52W>
-    <Change30dPercent>-2.26</Change30dPercent>
+    <Change30dPercent>-1.77</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SETFNIF50</Symbol>
@@ -607,7 +607,7 @@
     <NAV>-</NAV>
     <High52W>287.33</High52W>
     <Low52W>227.33</Low52W>
-    <Change30dPercent>-4.85</Change30dPercent>
+    <Change30dPercent>-4.48</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>AXISILVER</Symbol>
@@ -626,7 +626,7 @@
     <NAV>-</NAV>
     <High52W>390.01</High52W>
     <Low52W>86.48</Low52W>
-    <Change30dPercent>-7.07</Change30dPercent>
+    <Change30dPercent>4.37</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>AXISBPSETF</Symbol>
@@ -645,7 +645,7 @@
     <NAV>-</NAV>
     <High52W>14.5</High52W>
     <Low52W>12.1</Low52W>
-    <Change30dPercent>0.68</Change30dPercent>
+    <Change30dPercent>0.84</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>HDFCSML250</Symbol>
@@ -664,7 +664,7 @@
     <NAV>-</NAV>
     <High52W>183.18</High52W>
     <Low52W>136.27</Low52W>
-    <Change30dPercent>-3.97</Change30dPercent>
+    <Change30dPercent>-2.92</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GOLDBETA</Symbol>
@@ -683,7 +683,7 @@
     <NAV>-</NAV>
     <High52W>149.35</High52W>
     <Low52W>71.1</Low52W>
-    <Change30dPercent>0.95</Change30dPercent>
+    <Change30dPercent>3.54</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>PSUBNKBEES</Symbol>
@@ -702,7 +702,7 @@
     <NAV>-</NAV>
     <High52W>110.4</High52W>
     <Low52W>63.66</Low52W>
-    <Change30dPercent>3.52</Change30dPercent>
+    <Change30dPercent>2.81</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>AXISGOLD</Symbol>
@@ -721,7 +721,7 @@
     <NAV>-</NAV>
     <High52W>150</High52W>
     <Low52W>68.1</Low52W>
-    <Change30dPercent>0.2</Change30dPercent>
+    <Change30dPercent>4</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SILVERBETA</Symbol>
@@ -740,7 +740,7 @@
     <NAV>-</NAV>
     <High52W>379.66</High52W>
     <Low52W>85.08</Low52W>
-    <Change30dPercent>-6.87</Change30dPercent>
+    <Change30dPercent>3.81</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>BANKNIFTY1</Symbol>
@@ -759,7 +759,7 @@
     <NAV>-</NAV>
     <High52W>65.29</High52W>
     <Low52W>49.02</Low52W>
-    <Change30dPercent>-90.35</Change30dPercent>
+    <Change30dPercent>-90.33</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MON100</Symbol>
@@ -778,7 +778,7 @@
     <NAV>-</NAV>
     <High52W>258.8</High52W>
     <Low52W>159.3</Low52W>
-    <Change30dPercent>-3.32</Change30dPercent>
+    <Change30dPercent>-1.65</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SILVER1</Symbol>
@@ -797,7 +797,7 @@
     <NAV>-</NAV>
     <High52W>38.8</High52W>
     <Low52W>8.59</Low52W>
-    <Change30dPercent>-90.99</Change30dPercent>
+    <Change30dPercent>-89.58</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>PVTBANIETF</Symbol>
@@ -816,7 +816,7 @@
     <NAV>-</NAV>
     <High52W>30.32</High52W>
     <Low52W>23.87</Low52W>
-    <Change30dPercent>-5.15</Change30dPercent>
+    <Change30dPercent>-4.49</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GROWWDEFNC</Symbol>
@@ -835,7 +835,7 @@
     <NAV>-</NAV>
     <High52W>93.89</High52W>
     <Low52W>52.11</Low52W>
-    <Change30dPercent>7.21</Change30dPercent>
+    <Change30dPercent>9.13</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>BANKBETA</Symbol>
@@ -854,7 +854,7 @@
     <NAV>-</NAV>
     <High52W>73.7</High52W>
     <Low52W>48.71</Low52W>
-    <Change30dPercent>-4.07</Change30dPercent>
+    <Change30dPercent>-3.4</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MIDCAPETF</Symbol>
@@ -873,7 +873,7 @@
     <NAV>-</NAV>
     <High52W>23.61</High52W>
     <Low52W>16</Low52W>
-    <Change30dPercent>-3.39</Change30dPercent>
+    <Change30dPercent>-2.87</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>METALIETF</Symbol>
@@ -892,7 +892,7 @@
     <NAV>-</NAV>
     <High52W>12.74</High52W>
     <Low52W>7.35</Low52W>
-    <Change30dPercent>0</Change30dPercent>
+    <Change30dPercent>0.75</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MID150BEES</Symbol>
@@ -911,7 +911,7 @@
     <NAV>-</NAV>
     <High52W>239.29</High52W>
     <Low52W>180.39</Low52W>
-    <Change30dPercent>-3.32</Change30dPercent>
+    <Change30dPercent>-3.2</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>BSLGOLDETF</Symbol>
@@ -930,7 +930,7 @@
     <NAV>-</NAV>
     <High52W>155.99</High52W>
     <Low52W>74.5</Low52W>
-    <Change30dPercent>0.88</Change30dPercent>
+    <Change30dPercent>3.51</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>LIQUID</Symbol>
@@ -968,7 +968,7 @@
     <NAV>-</NAV>
     <High52W>289.05</High52W>
     <Low52W>226</Low52W>
-    <Change30dPercent>-5.07</Change30dPercent>
+    <Change30dPercent>-4.65</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>ICICIB22</Symbol>
@@ -987,7 +987,7 @@
     <NAV>-</NAV>
     <High52W>131</High52W>
     <Low52W>95.41</Low52W>
-    <Change30dPercent>1.4</Change30dPercent>
+    <Change30dPercent>1.97</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SILVERADD</Symbol>
@@ -1006,7 +1006,7 @@
     <NAV>-</NAV>
     <High52W>390</High52W>
     <Low52W>84.26</Low52W>
-    <Change30dPercent>-6.82</Change30dPercent>
+    <Change30dPercent>5.12</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>NIFTY1</Symbol>
@@ -1025,7 +1025,7 @@
     <NAV>-</NAV>
     <High52W>320</High52W>
     <Low52W>238.25</Low52W>
-    <Change30dPercent>-5.04</Change30dPercent>
+    <Change30dPercent>-4.63</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GROWWSLVR</Symbol>
@@ -1044,7 +1044,7 @@
     <NAV>-</NAV>
     <High52W>36.3</High52W>
     <Low52W>9.42</Low52W>
-    <Change30dPercent>-90.67</Change30dPercent>
+    <Change30dPercent>-89.59</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>HDFCPVTBAN</Symbol>
@@ -1063,7 +1063,7 @@
     <NAV>-</NAV>
     <High52W>30.17</High52W>
     <Low52W>24.04</Low52W>
-    <Change30dPercent>-5.18</Change30dPercent>
+    <Change30dPercent>-4.56</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>LTGILTBEES</Symbol>
@@ -1082,7 +1082,7 @@
     <NAV>-</NAV>
     <High52W>30.13</High52W>
     <Low52W>27.56</Low52W>
-    <Change30dPercent>0.82</Change30dPercent>
+    <Change30dPercent>0.58</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>PHARMABEES</Symbol>
@@ -1101,7 +1101,7 @@
     <NAV>-</NAV>
     <High52W>26.52</High52W>
     <Low52W>19.47</Low52W>
-    <Change30dPercent>3.7</Change30dPercent>
+    <Change30dPercent>3.98</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SILVERAG</Symbol>
@@ -1120,7 +1120,7 @@
     <NAV>-</NAV>
     <High52W>380</High52W>
     <Low52W>84.55</Low52W>
-    <Change30dPercent>-7.96</Change30dPercent>
+    <Change30dPercent>4.89</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SMALLCAP</Symbol>
@@ -1139,7 +1139,7 @@
     <NAV>-</NAV>
     <High52W>54.5</High52W>
     <Low52W>38.04</Low52W>
-    <Change30dPercent>-4.66</Change30dPercent>
+    <Change30dPercent>-3.78</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>METAL</Symbol>
@@ -1158,7 +1158,7 @@
     <NAV>-</NAV>
     <High52W>12.85</High52W>
     <Low52W>7.73</Low52W>
-    <Change30dPercent>-0.17</Change30dPercent>
+    <Change30dPercent>0.92</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MOM30IETF</Symbol>
@@ -1177,7 +1177,7 @@
     <NAV>-</NAV>
     <High52W>33.61</High52W>
     <Low52W>25</Low52W>
-    <Change30dPercent>-2.32</Change30dPercent>
+    <Change30dPercent>-1.6</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>LICMFGOLD</Symbol>
@@ -1196,7 +1196,7 @@
     <NAV>-</NAV>
     <High52W>162</High52W>
     <Low52W>77.1</Low52W>
-    <Change30dPercent>-98.97</Change30dPercent>
+    <Change30dPercent>-98.96</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MAFANG</Symbol>
@@ -1215,7 +1215,7 @@
     <NAV>-</NAV>
     <High52W>178.78</High52W>
     <Low52W>100</Low52W>
-    <Change30dPercent>-2.42</Change30dPercent>
+    <Change30dPercent>0.45</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>HDFCNIFTY</Symbol>
@@ -1234,7 +1234,7 @@
     <NAV>-</NAV>
     <High52W>301.88</High52W>
     <Low52W>240.55</Low52W>
-    <Change30dPercent>-4.94</Change30dPercent>
+    <Change30dPercent>-4.54</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>BANKETF</Symbol>
@@ -1253,7 +1253,7 @@
     <NAV>-</NAV>
     <High52W>628.27</High52W>
     <Low52W>481.38</Low52W>
-    <Change30dPercent>-4.05</Change30dPercent>
+    <Change30dPercent>-3.73</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MOREALTY</Symbol>
@@ -1272,7 +1272,7 @@
     <NAV>-</NAV>
     <High52W>107.02</High52W>
     <Low52W>73.53</Low52W>
-    <Change30dPercent>-9.68</Change30dPercent>
+    <Change30dPercent>-9.2</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GOLDADD</Symbol>
@@ -1291,7 +1291,7 @@
     <NAV>-</NAV>
     <High52W>181</High52W>
     <Low52W>81.15</Low52W>
-    <Change30dPercent>0.59</Change30dPercent>
+    <Change30dPercent>3.75</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>ITETF</Symbol>
@@ -1310,7 +1310,7 @@
     <NAV>-</NAV>
     <High52W>42.02</High52W>
     <Low52W>31.25</Low52W>
-    <Change30dPercent>-17.29</Change30dPercent>
+    <Change30dPercent>-16.83</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GROWWGOLD</Symbol>
@@ -1329,7 +1329,7 @@
     <NAV>-</NAV>
     <High52W>18</High52W>
     <Low52W>8</Low52W>
-    <Change30dPercent>-89.95</Change30dPercent>
+    <Change30dPercent>-89.7</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SBILIQETF</Symbol>
@@ -1348,7 +1348,7 @@
     <NAV>-</NAV>
     <High52W>1050</High52W>
     <Low52W>984.99</Low52W>
-    <Change30dPercent>0.39</Change30dPercent>
+    <Change30dPercent>0.38</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SETFNIFBK</Symbol>
@@ -1367,7 +1367,7 @@
     <NAV>-</NAV>
     <High52W>646.11</High52W>
     <Low52W>465.64</Low52W>
-    <Change30dPercent>-3.72</Change30dPercent>
+    <Change30dPercent>-3.55</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>NEXT50IETF</Symbol>
@@ -1386,7 +1386,7 @@
     <NAV>-</NAV>
     <High52W>76.55</High52W>
     <Low52W>59</Low52W>
-    <Change30dPercent>-2.32</Change30dPercent>
+    <Change30dPercent>-2</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>TOP10ADD</Symbol>
@@ -1405,7 +1405,7 @@
     <NAV>-</NAV>
     <High52W>103.43</High52W>
     <Low52W>86.5</Low52W>
-    <Change30dPercent>-6.5</Change30dPercent>
+    <Change30dPercent>-5.81</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GOLDBND</Symbol>
@@ -1424,7 +1424,7 @@
     <NAV>-</NAV>
     <High52W>180.16</High52W>
     <Low52W>127.96</Low52W>
-    <Change30dPercent>1.29</Change30dPercent>
+    <Change30dPercent>5.61</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>HDFCLIQUID</Symbol>
@@ -1443,7 +1443,7 @@
     <NAV>-</NAV>
     <High52W>1052.88</High52W>
     <Low52W>990</Low52W>
-    <Change30dPercent>0.38</Change30dPercent>
+    <Change30dPercent>0.37</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>FMCGIETF</Symbol>
@@ -1462,7 +1462,7 @@
     <NAV>-</NAV>
     <High52W>62.3</High52W>
     <Low52W>52.71</Low52W>
-    <Change30dPercent>-2.09</Change30dPercent>
+    <Change30dPercent>-1.59</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>NIFTYBETA</Symbol>
@@ -1481,7 +1481,7 @@
     <NAV>-</NAV>
     <High52W>297.48</High52W>
     <Low52W>235</Low52W>
-    <Change30dPercent>-5.1</Change30dPercent>
+    <Change30dPercent>-4.66</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>HNGSNGBEES</Symbol>
@@ -1500,7 +1500,7 @@
     <NAV>-</NAV>
     <High52W>579.92</High52W>
     <Low52W>319</Low52W>
-    <Change30dPercent>-6.12</Change30dPercent>
+    <Change30dPercent>-5.59</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>OILIETF</Symbol>
@@ -1519,7 +1519,7 @@
     <NAV>-</NAV>
     <High52W>14</High52W>
     <Low52W>9.46</Low52W>
-    <Change30dPercent>-2.76</Change30dPercent>
+    <Change30dPercent>-2.61</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>EBBETF0433</Symbol>
@@ -1538,7 +1538,7 @@
     <NAV>-</NAV>
     <High52W>1315.12</High52W>
     <Low52W>1187.04</Low52W>
-    <Change30dPercent>1.23</Change30dPercent>
+    <Change30dPercent>1.33</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SMALLADD</Symbol>
@@ -1557,7 +1557,7 @@
     <NAV>-</NAV>
     <High52W>17.15</High52W>
     <Low52W>15.15</Low52W>
-    <Change30dPercent>-4.17</Change30dPercent>
+    <Change30dPercent>-3.57</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>ALPL30IETF</Symbol>
@@ -1576,7 +1576,7 @@
     <NAV>-</NAV>
     <High52W>28.72</High52W>
     <Low52W>24</Low52W>
-    <Change30dPercent>-1.16</Change30dPercent>
+    <Change30dPercent>-0.76</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MIDCAPADD</Symbol>
@@ -1595,7 +1595,7 @@
     <NAV>-</NAV>
     <High52W>25.5</High52W>
     <Low52W>20.73</Low52W>
-    <Change30dPercent>-4.08</Change30dPercent>
+    <Change30dPercent>-2.89</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>ALPHA</Symbol>
@@ -1614,7 +1614,7 @@
     <NAV>-</NAV>
     <High52W>53.6</High52W>
     <Low52W>39</Low52W>
-    <Change30dPercent>-0.4</Change30dPercent>
+    <Change30dPercent>0.23</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>LOWVOLIETF</Symbol>
@@ -1633,7 +1633,7 @@
     <NAV>-</NAV>
     <High52W>26.81</High52W>
     <Low52W>19.03</Low52W>
-    <Change30dPercent>-3.53</Change30dPercent>
+    <Change30dPercent>-3.19</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>AUTOBEES</Symbol>
@@ -1652,7 +1652,7 @@
     <NAV>-</NAV>
     <High52W>299.92</High52W>
     <Low52W>197.07</Low52W>
-    <Change30dPercent>-2.38</Change30dPercent>
+    <Change30dPercent>-1.79</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>BANKIETF</Symbol>
@@ -1671,7 +1671,7 @@
     <NAV>-</NAV>
     <High52W>63.9</High52W>
     <Low52W>47.55</Low52W>
-    <Change30dPercent>-3.8</Change30dPercent>
+    <Change30dPercent>-3.68</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>PSUBNKIETF</Symbol>
@@ -1690,7 +1690,7 @@
     <NAV>-</NAV>
     <High52W>104</High52W>
     <Low52W>57.67</Low52W>
-    <Change30dPercent>3.69</Change30dPercent>
+    <Change30dPercent>3.25</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>ENERGY</Symbol>
@@ -1709,7 +1709,7 @@
     <NAV>-</NAV>
     <High52W>40</High52W>
     <Low52W>29.8</Low52W>
-    <Change30dPercent>0.25</Change30dPercent>
+    <Change30dPercent>0.74</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>DEFENCE</Symbol>
@@ -1747,7 +1747,7 @@
     <NAV>-</NAV>
     <High52W>389</High52W>
     <Low52W>180</Low52W>
-    <Change30dPercent>-7.05</Change30dPercent>
+    <Change30dPercent>4.49</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>ESILVER</Symbol>
@@ -1766,7 +1766,7 @@
     <NAV>-</NAV>
     <High52W>375</High52W>
     <Low52W>86.27</Low52W>
-    <Change30dPercent>-8.92</Change30dPercent>
+    <Change30dPercent>1.76</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MIDCAPIETF</Symbol>
@@ -1785,7 +1785,7 @@
     <NAV>-</NAV>
     <High52W>24</High52W>
     <Low52W>17.8</Low52W>
-    <Change30dPercent>-3.22</Change30dPercent>
+    <Change30dPercent>-3.27</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MOM100</Symbol>
@@ -1804,7 +1804,7 @@
     <NAV>-</NAV>
     <High52W>66.59</High52W>
     <Low52W>50.5</Low52W>
-    <Change30dPercent>-3.72</Change30dPercent>
+    <Change30dPercent>-3.45</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MAHKTECH</Symbol>
@@ -1823,7 +1823,7 @@
     <NAV>-</NAV>
     <High52W>35.59</High52W>
     <Low52W>17.56</Low52W>
-    <Change30dPercent>-10.12</Change30dPercent>
+    <Change30dPercent>-8.83</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>QGOLDHALF</Symbol>
@@ -1842,7 +1842,7 @@
     <NAV>-</NAV>
     <High52W>149.69</High52W>
     <Low52W>69.8</Low52W>
-    <Change30dPercent>1.13</Change30dPercent>
+    <Change30dPercent>4.23</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SETFNN50</Symbol>
@@ -1861,7 +1861,7 @@
     <NAV>-</NAV>
     <High52W>840</High52W>
     <Low52W>585.51</Low52W>
-    <Change30dPercent>-2.12</Change30dPercent>
+    <Change30dPercent>-1.94</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>AONELIQUID</Symbol>
@@ -1880,7 +1880,7 @@
     <NAV>-</NAV>
     <High52W>1060</High52W>
     <Low52W>908.58</Low52W>
-    <Change30dPercent>0.4</Change30dPercent>
+    <Change30dPercent>0.39</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>ITIETF</Symbol>
@@ -1899,7 +1899,7 @@
     <NAV>-</NAV>
     <High52W>44.3</High52W>
     <Low52W>32.93</Low52W>
-    <Change30dPercent>-17.02</Change30dPercent>
+    <Change30dPercent>-16.56</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MOMENTUM50</Symbol>
@@ -1918,7 +1918,7 @@
     <NAV>-</NAV>
     <High52W>56.9</High52W>
     <Low52W>42.4</Low52W>
-    <Change30dPercent>-1.97</Change30dPercent>
+    <Change30dPercent>-1.55</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MID150CASE</Symbol>
@@ -1937,7 +1937,7 @@
     <NAV>-</NAV>
     <High52W>12</High52W>
     <Low52W>7.66</Low52W>
-    <Change30dPercent>-3.46</Change30dPercent>
+    <Change30dPercent>-3.2</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GROWWRAIL</Symbol>
@@ -1956,7 +1956,7 @@
     <NAV>-</NAV>
     <High52W>43.66</High52W>
     <Low52W>28.72</Low52W>
-    <Change30dPercent>-6.95</Change30dPercent>
+    <Change30dPercent>-6.03</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MOVALUE</Symbol>
@@ -1975,7 +1975,7 @@
     <NAV>-</NAV>
     <High52W>128.77</High52W>
     <Low52W>86.5</Low52W>
-    <Change30dPercent>-0.72</Change30dPercent>
+    <Change30dPercent>-0.85</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>ITADD</Symbol>
@@ -1994,7 +1994,7 @@
     <NAV>-</NAV>
     <High52W>41.92</High52W>
     <Low52W>31.45</Low52W>
-    <Change30dPercent>-17.22</Change30dPercent>
+    <Change30dPercent>-16.57</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SENSEXIETF</Symbol>
@@ -2013,7 +2013,7 @@
     <NAV>-</NAV>
     <High52W>999.84</High52W>
     <Low52W>812.04</Low52W>
-    <Change30dPercent>-5.33</Change30dPercent>
+    <Change30dPercent>-4.83</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>LIQGRWBEES</Symbol>
@@ -2032,7 +2032,7 @@
     <NAV>-</NAV>
     <High52W>1037.73</High52W>
     <Low52W>995.55</Low52W>
-    <Change30dPercent>0.38</Change30dPercent>
+    <Change30dPercent>0.37</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SILVER360</Symbol>
@@ -2051,7 +2051,7 @@
     <NAV>-</NAV>
     <High52W>358</High52W>
     <Low52W>78.4</Low52W>
-    <Change30dPercent>-7.06</Change30dPercent>
+    <Change30dPercent>4.3</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MOCAPITAL</Symbol>
@@ -2070,7 +2070,7 @@
     <NAV>-</NAV>
     <High52W>51.13</High52W>
     <Low52W>29.2</Low52W>
-    <Change30dPercent>-5.65</Change30dPercent>
+    <Change30dPercent>-4.85</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>UNIONGOLD</Symbol>
@@ -2089,7 +2089,7 @@
     <NAV>-</NAV>
     <High52W>177</High52W>
     <Low52W>82</Low52W>
-    <Change30dPercent>0.58</Change30dPercent>
+    <Change30dPercent>4.63</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>EBBETF0431</Symbol>
@@ -2108,7 +2108,7 @@
     <NAV>-</NAV>
     <High52W>1410.12</High52W>
     <Low52W>1299.53</Low52W>
-    <Change30dPercent>0.85</Change30dPercent>
+    <Change30dPercent>1.53</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GROWWLIQID</Symbol>
@@ -2127,7 +2127,7 @@
     <NAV>-</NAV>
     <High52W>108.49</High52W>
     <Low52W>100</Low52W>
-    <Change30dPercent>0.38</Change30dPercent>
+    <Change30dPercent>0.37</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MOGOLD</Symbol>
@@ -2146,7 +2146,7 @@
     <NAV>-</NAV>
     <High52W>175</High52W>
     <Low52W>96.3</Low52W>
-    <Change30dPercent>-1.14</Change30dPercent>
+    <Change30dPercent>1.83</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>HDFCNIFBAN</Symbol>
@@ -2165,7 +2165,7 @@
     <NAV>-</NAV>
     <High52W>65.54</High52W>
     <Low52W>48.51</Low52W>
-    <Change30dPercent>-3.9</Change30dPercent>
+    <Change30dPercent>-3.53</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>ALPHAETF</Symbol>
@@ -2184,7 +2184,7 @@
     <NAV>-</NAV>
     <High52W>26.53</High52W>
     <Low52W>20.35</Low52W>
-    <Change30dPercent>-1.17</Change30dPercent>
+    <Change30dPercent>-1.09</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>PSUBANK</Symbol>
@@ -2203,7 +2203,7 @@
     <NAV>-</NAV>
     <High52W>1010</High52W>
     <Low52W>571.27</Low52W>
-    <Change30dPercent>4.08</Change30dPercent>
+    <Change30dPercent>3.25</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>HDFCMID150</Symbol>
@@ -2222,7 +2222,7 @@
     <NAV>-</NAV>
     <High52W>23.39</High52W>
     <Low52W>17.55</Low52W>
-    <Change30dPercent>-3.47</Change30dPercent>
+    <Change30dPercent>-3.25</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MASPTOP50</Symbol>
@@ -2241,7 +2241,7 @@
     <NAV>-</NAV>
     <High52W>73.13</High52W>
     <Low52W>40.86</Low52W>
-    <Change30dPercent>-0.35</Change30dPercent>
+    <Change30dPercent>0.08</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MONIFTY500</Symbol>
@@ -2260,7 +2260,7 @@
     <NAV>-</NAV>
     <High52W>24.88</High52W>
     <Low52W>19.5</Low52W>
-    <Change30dPercent>-3.97</Change30dPercent>
+    <Change30dPercent>-3.89</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>INFRABEES</Symbol>
@@ -2279,7 +2279,7 @@
     <NAV>-</NAV>
     <High52W>1018.3</High52W>
     <Low52W>795.33</Low52W>
-    <Change30dPercent>-3.03</Change30dPercent>
+    <Change30dPercent>-2.45</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MOSMALL250</Symbol>
@@ -2298,7 +2298,7 @@
     <NAV>-</NAV>
     <High52W>19.38</High52W>
     <Low52W>13.22</Low52W>
-    <Change30dPercent>-3.73</Change30dPercent>
+    <Change30dPercent>-3.25</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>FINIETF</Symbol>
@@ -2317,7 +2317,7 @@
     <NAV>-</NAV>
     <High52W>33.69</High52W>
     <Low52W>24.3</Low52W>
-    <Change30dPercent>-4.6</Change30dPercent>
+    <Change30dPercent>-4.69</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MIDSMALL</Symbol>
@@ -2336,7 +2336,7 @@
     <NAV>-</NAV>
     <High52W>52.62</High52W>
     <Low52W>40</Low52W>
-    <Change30dPercent>-3.31</Change30dPercent>
+    <Change30dPercent>-2.76</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>EBBETF0430</Symbol>
@@ -2355,7 +2355,7 @@
     <NAV>-</NAV>
     <High52W>1612.43</High52W>
     <Low52W>1232</Low52W>
-    <Change30dPercent>0.88</Change30dPercent>
+    <Change30dPercent>0.91</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>BSE500IETF</Symbol>
@@ -2374,7 +2374,7 @@
     <NAV>-</NAV>
     <High52W>41.64</High52W>
     <Low52W>33</Low52W>
-    <Change30dPercent>-4.74</Change30dPercent>
+    <Change30dPercent>-3.16</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>NEXT50BETA</Symbol>
@@ -2393,7 +2393,7 @@
     <NAV>-</NAV>
     <High52W>79.1</High52W>
     <Low52W>60.2</Low52W>
-    <Change30dPercent>-3.65</Change30dPercent>
+    <Change30dPercent>-1.92</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>CONSUMBEES</Symbol>
@@ -2412,7 +2412,7 @@
     <NAV>-</NAV>
     <High52W>144.38</High52W>
     <Low52W>110.86</Low52W>
-    <Change30dPercent>-4.79</Change30dPercent>
+    <Change30dPercent>-4.36</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GROWWPOWER</Symbol>
@@ -2431,7 +2431,7 @@
     <NAV>-</NAV>
     <High52W>11.3</High52W>
     <Low52W>7.75</Low52W>
-    <Change30dPercent>2.16</Change30dPercent>
+    <Change30dPercent>1.66</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>HEALTHIETF</Symbol>
@@ -2450,7 +2450,7 @@
     <NAV>-</NAV>
     <High52W>157.19</High52W>
     <Low52W>128.2</Low52W>
-    <Change30dPercent>4.13</Change30dPercent>
+    <Change30dPercent>3.93</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>NIFTYCASE</Symbol>
@@ -2469,7 +2469,7 @@
     <NAV>-</NAV>
     <High52W>10.97</High52W>
     <Low52W>9.68</Low52W>
-    <Change30dPercent>-4.79</Change30dPercent>
+    <Change30dPercent>-4.51</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>COMMOIETF</Symbol>
@@ -2488,7 +2488,7 @@
     <NAV>-</NAV>
     <High52W>103.99</High52W>
     <Low52W>75.61</Low52W>
-    <Change30dPercent>-1.36</Change30dPercent>
+    <Change30dPercent>-1.16</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>TOP100CASE</Symbol>
@@ -2507,7 +2507,7 @@
     <NAV>-</NAV>
     <High52W>11.57</High52W>
     <Low52W>8.01</Low52W>
-    <Change30dPercent>-4.63</Change30dPercent>
+    <Change30dPercent>-4.11</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>INFRAIETF</Symbol>
@@ -2526,7 +2526,7 @@
     <NAV>-</NAV>
     <High52W>101</High52W>
     <Low52W>78.88</Low52W>
-    <Change30dPercent>-3.23</Change30dPercent>
+    <Change30dPercent>-2.75</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>ELM250</Symbol>
@@ -2545,7 +2545,7 @@
     <NAV>-</NAV>
     <High52W>19.2</High52W>
     <Low52W>15.63</Low52W>
-    <Change30dPercent>-4.43</Change30dPercent>
+    <Change30dPercent>-1.97</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>IT</Symbol>
@@ -2564,7 +2564,7 @@
     <NAV>-</NAV>
     <High52W>44.49</High52W>
     <Low52W>32.14</Low52W>
-    <Change30dPercent>-17.44</Change30dPercent>
+    <Change30dPercent>-17.07</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>NEXT50</Symbol>
@@ -2583,7 +2583,7 @@
     <NAV>-</NAV>
     <High52W>738.15</High52W>
     <Low52W>580</Low52W>
-    <Change30dPercent>-2.53</Change30dPercent>
+    <Change30dPercent>-1.83</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>BSLNIFTY</Symbol>
@@ -2602,7 +2602,7 @@
     <NAV>-</NAV>
     <High52W>31.45</High52W>
     <Low52W>23.58</Low52W>
-    <Change30dPercent>-5.06</Change30dPercent>
+    <Change30dPercent>-4.42</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>AONEGOLD</Symbol>
@@ -2621,7 +2621,7 @@
     <NAV>-</NAV>
     <High52W>17.73</High52W>
     <Low52W>10</Low52W>
-    <Change30dPercent>0.68</Change30dPercent>
+    <Change30dPercent>3.72</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>EQUAL50ADD</Symbol>
@@ -2640,7 +2640,7 @@
     <NAV>-</NAV>
     <High52W>361</High52W>
     <Low52W>280.01</Low52W>
-    <Change30dPercent>-3.34</Change30dPercent>
+    <Change30dPercent>-3.3</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>VAL30IETF</Symbol>
@@ -2659,7 +2659,7 @@
     <NAV>-</NAV>
     <High52W>17.7</High52W>
     <Low52W>11.17</Low52W>
-    <Change30dPercent>-0.57</Change30dPercent>
+    <Change30dPercent>-0.38</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>PSUBANKADD</Symbol>
@@ -2678,7 +2678,7 @@
     <NAV>-</NAV>
     <High52W>99.88</High52W>
     <Low52W>55.69</Low52W>
-    <Change30dPercent>3.35</Change30dPercent>
+    <Change30dPercent>2.93</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>AXISNIFTY</Symbol>
@@ -2697,7 +2697,7 @@
     <NAV>-</NAV>
     <High52W>296.38</High52W>
     <Low52W>236.8</Low52W>
-    <Change30dPercent>-4.94</Change30dPercent>
+    <Change30dPercent>-4.42</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GILT5YBEES</Symbol>
@@ -2716,7 +2716,7 @@
     <NAV>-</NAV>
     <High52W>66.31</High52W>
     <Low52W>59.6</Low52W>
-    <Change30dPercent>0.83</Change30dPercent>
+    <Change30dPercent>1.11</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>NIFTYADD</Symbol>
@@ -2735,7 +2735,7 @@
     <NAV>-</NAV>
     <High52W>300</High52W>
     <Low52W>225.66</Low52W>
-    <Change30dPercent>-4.87</Change30dPercent>
+    <Change30dPercent>-4.49</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>AUTOIETF</Symbol>
@@ -2754,7 +2754,7 @@
     <NAV>-</NAV>
     <High52W>30.5</High52W>
     <Low52W>19.72</Low52W>
-    <Change30dPercent>-2.55</Change30dPercent>
+    <Change30dPercent>-1.93</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>NIF100BEES</Symbol>
@@ -2773,7 +2773,7 @@
     <NAV>-</NAV>
     <High52W>290</High52W>
     <Low52W>230.35</Low52W>
-    <Change30dPercent>-4.34</Change30dPercent>
+    <Change30dPercent>-4.18</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>BFSI</Symbol>
@@ -2792,7 +2792,7 @@
     <NAV>-</NAV>
     <High52W>29.94</High52W>
     <Low52W>23.01</Low52W>
-    <Change30dPercent>-4.07</Change30dPercent>
+    <Change30dPercent>-3.54</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>TNIDETF</Symbol>
@@ -2811,7 +2811,7 @@
     <NAV>-</NAV>
     <High52W>103.26</High52W>
     <Low52W>76.95</Low52W>
-    <Change30dPercent>-14.09</Change30dPercent>
+    <Change30dPercent>-13.44</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SBIBPB</Symbol>
@@ -2830,7 +2830,7 @@
     <NAV>-</NAV>
     <High52W>58.27</High52W>
     <Low52W>34.37</Low52W>
-    <Change30dPercent>3.17</Change30dPercent>
+    <Change30dPercent>2.61</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MOSILVER</Symbol>
@@ -2849,7 +2849,7 @@
     <NAV>-</NAV>
     <High52W>385</High52W>
     <Low52W>112.32</Low52W>
-    <Change30dPercent>-7.95</Change30dPercent>
+    <Change30dPercent>4.3</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>HDFCNIFIT</Symbol>
@@ -2868,7 +2868,7 @@
     <NAV>-</NAV>
     <High52W>42.7</High52W>
     <Low52W>31.11</Low52W>
-    <Change30dPercent>-17.07</Change30dPercent>
+    <Change30dPercent>-16.47</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>BBETF0432</Symbol>
@@ -2887,7 +2887,7 @@
     <NAV>-</NAV>
     <High52W>1346.89</High52W>
     <Low52W>1222.26</Low52W>
-    <Change30dPercent>0.3</Change30dPercent>
+    <Change30dPercent>0.32</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MIDCAP</Symbol>
@@ -2906,7 +2906,7 @@
     <NAV>-</NAV>
     <High52W>18.35</High52W>
     <Low52W>13.72</Low52W>
-    <Change30dPercent>-90.47</Change30dPercent>
+    <Change30dPercent>-90.4</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>AONESILVER</Symbol>
@@ -2944,7 +2944,7 @@
     <NAV>-</NAV>
     <High52W>30.88</High52W>
     <Low52W>23.85</Low52W>
-    <Change30dPercent>-4.44</Change30dPercent>
+    <Change30dPercent>-4.04</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>ABSLBANETF</Symbol>
@@ -2963,7 +2963,7 @@
     <NAV>-</NAV>
     <High52W>64.94</High52W>
     <Low52W>47.55</Low52W>
-    <Change30dPercent>-3.84</Change30dPercent>
+    <Change30dPercent>-3.62</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SML100CASE</Symbol>
@@ -2982,7 +2982,7 @@
     <NAV>-</NAV>
     <High52W>11.08</High52W>
     <Low52W>8.8</Low52W>
-    <Change30dPercent>-3.91</Change30dPercent>
+    <Change30dPercent>-2.71</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>TECH</Symbol>
@@ -3001,7 +3001,7 @@
     <NAV>-</NAV>
     <High52W>49.41</High52W>
     <Low52W>31.57</Low52W>
-    <Change30dPercent>-17.05</Change30dPercent>
+    <Change30dPercent>-16.54</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GROWWMETAL</Symbol>
@@ -3020,7 +3020,7 @@
     <NAV>-</NAV>
     <High52W>12.19</High52W>
     <Low52W>10.03</Low52W>
-    <Change30dPercent>-0.18</Change30dPercent>
+    <Change30dPercent>0.26</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SBIETFPB</Symbol>
@@ -3039,7 +3039,7 @@
     <NAV>-</NAV>
     <High52W>304.58</High52W>
     <Low52W>237.15</Low52W>
-    <Change30dPercent>-5.11</Change30dPercent>
+    <Change30dPercent>-4.54</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>HEALTHY</Symbol>
@@ -3058,7 +3058,7 @@
     <NAV>-</NAV>
     <High52W>16.98</High52W>
     <Low52W>12.2</Low52W>
-    <Change30dPercent>4.32</Change30dPercent>
+    <Change30dPercent>4.54</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>BANKADD</Symbol>
@@ -3077,7 +3077,7 @@
     <NAV>-</NAV>
     <High52W>62.9</High52W>
     <Low52W>48.3</Low52W>
-    <Change30dPercent>-4.02</Change30dPercent>
+    <Change30dPercent>-3.74</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MAKEINDIA</Symbol>
@@ -3096,7 +3096,7 @@
     <NAV>-</NAV>
     <High52W>164.84</High52W>
     <Low52W>119.5</Low52W>
-    <Change30dPercent>-0.25</Change30dPercent>
+    <Change30dPercent>0.29</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>HDFCNIF100</Symbol>
@@ -3115,7 +3115,7 @@
     <NAV>-</NAV>
     <High52W>29</High52W>
     <Low52W>21.15</Low52W>
-    <Change30dPercent>-4.18</Change30dPercent>
+    <Change30dPercent>-4.04</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>CONSUMIETF</Symbol>
@@ -3134,7 +3134,7 @@
     <NAV>-</NAV>
     <High52W>138</High52W>
     <Low52W>101.23</Low52W>
-    <Change30dPercent>-4.75</Change30dPercent>
+    <Change30dPercent>-4.17</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>NV20IETF</Symbol>
@@ -3153,7 +3153,7 @@
     <NAV>-</NAV>
     <High52W>16</High52W>
     <Low52W>11.2</Low52W>
-    <Change30dPercent>-4.58</Change30dPercent>
+    <Change30dPercent>-4.07</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MOENERGY</Symbol>
@@ -3172,7 +3172,7 @@
     <NAV>-</NAV>
     <High52W>42.4</High52W>
     <Low52W>33</Low52W>
-    <Change30dPercent>-0.16</Change30dPercent>
+    <Change30dPercent>0.61</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>ELIQUID</Symbol>
@@ -3191,7 +3191,7 @@
     <NAV>-</NAV>
     <High52W>1026.47</High52W>
     <Low52W>996</Low52W>
-    <Change30dPercent>0.4</Change30dPercent>
+    <Change30dPercent>0.39</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GROWWHOSPI</Symbol>
@@ -3229,7 +3229,7 @@
     <NAV>-</NAV>
     <High52W>30.45</High52W>
     <Low52W>23.83</Low52W>
-    <Change30dPercent>-4.86</Change30dPercent>
+    <Change30dPercent>-3.47</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>BANKBETF</Symbol>
@@ -3248,7 +3248,7 @@
     <NAV>-</NAV>
     <High52W>65</High52W>
     <Low52W>47</Low52W>
-    <Change30dPercent>-3.79</Change30dPercent>
+    <Change30dPercent>-3.81</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>HDFCMOMENT</Symbol>
@@ -3267,7 +3267,7 @@
     <NAV>-</NAV>
     <High52W>33.23</High52W>
     <Low52W>25.5</Low52W>
-    <Change30dPercent>-2.31</Change30dPercent>
+    <Change30dPercent>-1.65</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MONQ50</Symbol>
@@ -3286,7 +3286,7 @@
     <NAV>-</NAV>
     <High52W>104.31</High52W>
     <Low52W>61.31</Low52W>
-    <Change30dPercent>-2.75</Change30dPercent>
+    <Change30dPercent>-2.13</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>DIVOPPBEES</Symbol>
@@ -3305,7 +3305,7 @@
     <NAV>-</NAV>
     <High52W>87.09</High52W>
     <Low52W>68.3</Low52W>
-    <Change30dPercent>-3.93</Change30dPercent>
+    <Change30dPercent>-3.88</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>BBNPPGOLD</Symbol>
@@ -3324,7 +3324,7 @@
     <NAV>-</NAV>
     <High52W>184.05</High52W>
     <Low52W>82</Low52W>
-    <Change30dPercent>0.53</Change30dPercent>
+    <Change30dPercent>3.66</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GROWWEV</Symbol>
@@ -3343,7 +3343,7 @@
     <NAV>-</NAV>
     <High52W>32.38</High52W>
     <Low52W>23</Low52W>
-    <Change30dPercent>-3.1</Change30dPercent>
+    <Change30dPercent>-3.82</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>LTGILTCASE</Symbol>
@@ -3362,7 +3362,7 @@
     <NAV>-</NAV>
     <High52W>30.9</High52W>
     <Low52W>28.71</Low52W>
-    <Change30dPercent>0.74</Change30dPercent>
+    <Change30dPercent>0.64</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>HDFCPSUBK</Symbol>
@@ -3381,7 +3381,7 @@
     <NAV>-</NAV>
     <High52W>101.25</High52W>
     <Low52W>57.01</Low52W>
-    <Change30dPercent>3.47</Change30dPercent>
+    <Change30dPercent>3.24</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GOLD360</Symbol>
@@ -3400,7 +3400,7 @@
     <NAV>-</NAV>
     <High52W>178</High52W>
     <Low52W>78.2</Low52W>
-    <Change30dPercent>0.2</Change30dPercent>
+    <Change30dPercent>5.84</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>AXISVALUE</Symbol>
@@ -3419,7 +3419,7 @@
     <NAV>-</NAV>
     <High52W>34.97</High52W>
     <Low52W>22.84</Low52W>
-    <Change30dPercent>0.21</Change30dPercent>
+    <Change30dPercent>0.76</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GROWWNET</Symbol>
@@ -3438,7 +3438,7 @@
     <NAV>-</NAV>
     <High52W>12.14</High52W>
     <Low52W>8.36</Low52W>
-    <Change30dPercent>-12.25</Change30dPercent>
+    <Change30dPercent>-12.89</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GROWWCAPM</Symbol>
@@ -3457,7 +3457,7 @@
     <NAV>-</NAV>
     <High52W>11.78</High52W>
     <Low52W>8.02</Low52W>
-    <Change30dPercent>-5.9</Change30dPercent>
+    <Change30dPercent>-4.2</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SENSEXBETA</Symbol>
@@ -3476,7 +3476,7 @@
     <NAV>-</NAV>
     <High52W>952.91</High52W>
     <Low52W>779.95</Low52W>
-    <Change30dPercent>-6.1</Change30dPercent>
+    <Change30dPercent>-5.19</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>LIQUIDSHRI</Symbol>
@@ -3495,7 +3495,7 @@
     <NAV>-</NAV>
     <High52W>1095.15</High52W>
     <Low52W>1041.43</Low52W>
-    <Change30dPercent>0.38</Change30dPercent>
+    <Change30dPercent>0.37</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GROWWNIFTY</Symbol>
@@ -3514,7 +3514,7 @@
     <NAV>-</NAV>
     <High52W>11.88</High52W>
     <Low52W>9</Low52W>
-    <Change30dPercent>-4.84</Change30dPercent>
+    <Change30dPercent>-4.37</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>EVIETF</Symbol>
@@ -3533,7 +3533,7 @@
     <NAV>-</NAV>
     <High52W>33.75</High52W>
     <Low52W>23.56</Low52W>
-    <Change30dPercent>-4.59</Change30dPercent>
+    <Change30dPercent>-3.84</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>EVINDIA</Symbol>
@@ -3552,7 +3552,7 @@
     <NAV>-</NAV>
     <High52W>32.56</High52W>
     <Low52W>23.83</Low52W>
-    <Change30dPercent>-3.79</Change30dPercent>
+    <Change30dPercent>-3.01</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>CHEMICAL</Symbol>
@@ -3571,7 +3571,7 @@
     <NAV>-</NAV>
     <High52W>30</High52W>
     <Low52W>26.75</Low52W>
-    <Change30dPercent>-3.36</Change30dPercent>
+    <Change30dPercent>-2.85</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>HDFCSENSEX</Symbol>
@@ -3590,7 +3590,7 @@
     <NAV>-</NAV>
     <High52W>98.48</High52W>
     <Low52W>80.55</Low52W>
-    <Change30dPercent>-5.52</Change30dPercent>
+    <Change30dPercent>-5.09</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>CONSUMER</Symbol>
@@ -3609,7 +3609,7 @@
     <NAV>-</NAV>
     <High52W>12.87</High52W>
     <Low52W>9</Low52W>
-    <Change30dPercent>-6.46</Change30dPercent>
+    <Change30dPercent>-6.05</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>AONENIFTY</Symbol>
@@ -3628,7 +3628,7 @@
     <NAV>-</NAV>
     <High52W>12</High52W>
     <Low52W>9.47</Low52W>
-    <Change30dPercent>-5.02</Change30dPercent>
+    <Change30dPercent>-4.48</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MOMIDMTM</Symbol>
@@ -3647,7 +3647,7 @@
     <NAV>-</NAV>
     <High52W>66.73</High52W>
     <Low52W>58.75</Low52W>
-    <Change30dPercent>-2.89</Change30dPercent>
+    <Change30dPercent>-3.04</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SBIETFQLTY</Symbol>
@@ -3666,7 +3666,7 @@
     <NAV>-</NAV>
     <High52W>240</High52W>
     <Low52W>191.5</Low52W>
-    <Change30dPercent>-5.34</Change30dPercent>
+    <Change30dPercent>-4.5</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MOMOMENTUM</Symbol>
@@ -3685,7 +3685,7 @@
     <NAV>-</NAV>
     <High52W>66.37</High52W>
     <Low52W>51.21</Low52W>
-    <Change30dPercent>-2.38</Change30dPercent>
+    <Change30dPercent>-1.86</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>AONETOTAL</Symbol>
@@ -3704,7 +3704,7 @@
     <NAV>-</NAV>
     <High52W>12.51</High52W>
     <Low52W>9.63</Low52W>
-    <Change30dPercent>-4.7</Change30dPercent>
+    <Change30dPercent>-3.98</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>HDFCBSE500</Symbol>
@@ -3723,7 +3723,7 @@
     <NAV>-</NAV>
     <High52W>39.55</High52W>
     <Low52W>31.14</Low52W>
-    <Change30dPercent>-1.99</Change30dPercent>
+    <Change30dPercent>-1.36</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>BANKPSU</Symbol>
@@ -3742,7 +3742,7 @@
     <NAV>-</NAV>
     <High52W>99.52</High52W>
     <Low52W>57.28</Low52W>
-    <Change30dPercent>3.47</Change30dPercent>
+    <Change30dPercent>2.91</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MOMENTUM</Symbol>
@@ -3761,7 +3761,7 @@
     <NAV>-</NAV>
     <High52W>33.15</High52W>
     <Low52W>25.75</Low52W>
-    <Change30dPercent>-0.38</Change30dPercent>
+    <Change30dPercent>0.06</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SETF10GILT</Symbol>
@@ -3780,7 +3780,7 @@
     <NAV>-</NAV>
     <High52W>265.63</High52W>
     <Low52W>245.94</Low52W>
-    <Change30dPercent>1.11</Change30dPercent>
+    <Change30dPercent>0.64</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>HDFCNEXT50</Symbol>
@@ -3799,7 +3799,7 @@
     <NAV>-</NAV>
     <High52W>73</High52W>
     <Low52W>58.7</Low52W>
-    <Change30dPercent>-2.15</Change30dPercent>
+    <Change30dPercent>-2.02</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SENSEXETF</Symbol>
@@ -3818,7 +3818,7 @@
     <NAV>-</NAV>
     <High52W>88.7</High52W>
     <Low52W>72.01</Low52W>
-    <Change30dPercent>-5.64</Change30dPercent>
+    <Change30dPercent>-5.24</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>NIFTY100EW</Symbol>
@@ -3856,7 +3856,7 @@
     <NAV>-</NAV>
     <High52W>11.6</High52W>
     <Low52W>8</Low52W>
-    <Change30dPercent>-0.19</Change30dPercent>
+    <Change30dPercent>0.37</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MIDSELIETF</Symbol>
@@ -3875,7 +3875,7 @@
     <NAV>-</NAV>
     <High52W>20</High52W>
     <Low52W>13.86</Low52W>
-    <Change30dPercent>-6.42</Change30dPercent>
+    <Change30dPercent>-5.48</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>TWCGOLDETF</Symbol>
@@ -3894,7 +3894,7 @@
     <NAV>-</NAV>
     <High52W>187.98</High52W>
     <Low52W>130.43</Low52W>
-    <Change30dPercent>0.52</Change30dPercent>
+    <Change30dPercent>3.98</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SHARIABEES</Symbol>
@@ -3913,7 +3913,7 @@
     <NAV>-</NAV>
     <High52W>537.63</High52W>
     <Low52W>450.1</Low52W>
-    <Change30dPercent>-7.72</Change30dPercent>
+    <Change30dPercent>-7.41</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MONIFTY100</Symbol>
@@ -3932,7 +3932,7 @@
     <NAV>-</NAV>
     <High52W>27.97</High52W>
     <Low52W>24.87</Low52W>
-    <Change30dPercent>-5.49</Change30dPercent>
+    <Change30dPercent>-4.67</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>INTERNET</Symbol>
@@ -3951,7 +3951,7 @@
     <NAV>-</NAV>
     <High52W>16.12</High52W>
     <Low52W>11.35</Low52W>
-    <Change30dPercent>-12.4</Change30dPercent>
+    <Change30dPercent>-12.54</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>EGOLD</Symbol>
@@ -3970,7 +3970,7 @@
     <NAV>-</NAV>
     <High52W>184.95</High52W>
     <Low52W>85</Low52W>
-    <Change30dPercent>-0.35</Change30dPercent>
+    <Change30dPercent>3.24</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MOHEALTH</Symbol>
@@ -3989,7 +3989,7 @@
     <NAV>-</NAV>
     <High52W>47.57</High52W>
     <Low52W>37.96</Low52W>
-    <Change30dPercent>3.2</Change30dPercent>
+    <Change30dPercent>3.25</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SMALL250</Symbol>
@@ -4008,7 +4008,7 @@
     <NAV>-</NAV>
     <High52W>18.89</High52W>
     <Low52W>15.13</Low52W>
-    <Change30dPercent>-4.22</Change30dPercent>
+    <Change30dPercent>-3.07</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>LIQUIDSBI</Symbol>
@@ -4046,7 +4046,7 @@
     <NAV>-</NAV>
     <High52W>11.3</High52W>
     <Low52W>8.07</Low52W>
-    <Change30dPercent>-9.75</Change30dPercent>
+    <Change30dPercent>-8.76</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>IVZINGOLD</Symbol>
@@ -4065,7 +4065,7 @@
     <NAV>-</NAV>
     <High52W>15599.8</High52W>
     <Low52W>7502</Low52W>
-    <Change30dPercent>0.41</Change30dPercent>
+    <Change30dPercent>4.9</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>AXISBNKETF</Symbol>
@@ -4084,7 +4084,7 @@
     <NAV>-</NAV>
     <High52W>647.82</High52W>
     <Low52W>485</Low52W>
-    <Change30dPercent>-4.43</Change30dPercent>
+    <Change30dPercent>-4.09</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>NV20BEES</Symbol>
@@ -4103,7 +4103,7 @@
     <NAV>-</NAV>
     <High52W>159.67</High52W>
     <Low52W>122.02</Low52W>
-    <Change30dPercent>-4.66</Change30dPercent>
+    <Change30dPercent>-4.16</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SBIETFIT</Symbol>
@@ -4122,7 +4122,7 @@
     <NAV>-</NAV>
     <High52W>439.27</High52W>
     <Low52W>324.48</Low52W>
-    <Change30dPercent>-17.07</Change30dPercent>
+    <Change30dPercent>-16.65</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MANUFGBEES</Symbol>
@@ -4141,7 +4141,7 @@
     <NAV>-</NAV>
     <High52W>163.64</High52W>
     <Low52W>141.67</Low52W>
-    <Change30dPercent>-0.39</Change30dPercent>
+    <Change30dPercent>0.11</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MNC</Symbol>
@@ -4160,7 +4160,7 @@
     <NAV>-</NAV>
     <High52W>33.16</High52W>
     <Low52W>24.52</Low52W>
-    <Change30dPercent>-0.41</Change30dPercent>
+    <Change30dPercent>0.03</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MID150</Symbol>
@@ -4179,7 +4179,7 @@
     <NAV>-</NAV>
     <High52W>25.49</High52W>
     <Low52W>17.98</Low52W>
-    <Change30dPercent>-2.45</Change30dPercent>
+    <Change30dPercent>-3.11</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>NV20</Symbol>
@@ -4198,7 +4198,7 @@
     <NAV>-</NAV>
     <High52W>16.87</High52W>
     <Low52W>13</Low52W>
-    <Change30dPercent>-90.45</Change30dPercent>
+    <Change30dPercent>-90.38</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>NEXT50ADD</Symbol>
@@ -4217,7 +4217,7 @@
     <NAV>-</NAV>
     <High52W>81</High52W>
     <Low52W>65.53</Low52W>
-    <Change30dPercent>-2.45</Change30dPercent>
+    <Change30dPercent>-1.8</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>CHOICEGOLD</Symbol>
@@ -4236,7 +4236,7 @@
     <NAV>-</NAV>
     <High52W>175.49</High52W>
     <Low52W>120</Low52W>
-    <Change30dPercent>-0.17</Change30dPercent>
+    <Change30dPercent>4.2</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GROWWMOM50</Symbol>
@@ -4255,7 +4255,7 @@
     <NAV>-</NAV>
     <High52W>12</High52W>
     <Low52W>9.11</Low52W>
-    <Change30dPercent>-1.45</Change30dPercent>
+    <Change30dPercent>-1.55</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>HEALTHCARE</Symbol>
@@ -4293,7 +4293,7 @@
     <NAV>-</NAV>
     <High52W>17.03</High52W>
     <Low52W>13.56</Low52W>
-    <Change30dPercent>-4.47</Change30dPercent>
+    <Change30dPercent>-3.52</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>NETF</Symbol>
@@ -4312,7 +4312,7 @@
     <NAV>-</NAV>
     <High52W>292.9</High52W>
     <Low52W>227.05</Low52W>
-    <Change30dPercent>-5.37</Change30dPercent>
+    <Change30dPercent>-5.1</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MOTOUR</Symbol>
@@ -4331,7 +4331,7 @@
     <NAV>-</NAV>
     <High52W>97.2</High52W>
     <Low52W>72.68</Low52W>
-    <Change30dPercent>-8.47</Change30dPercent>
+    <Change30dPercent>-8.86</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>QUAL30IETF</Symbol>
@@ -4350,7 +4350,7 @@
     <NAV>-</NAV>
     <High52W>23</High52W>
     <Low52W>18</Low52W>
-    <Change30dPercent>-5.18</Change30dPercent>
+    <Change30dPercent>-4.69</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>BSLSENETFG</Symbol>
@@ -4369,7 +4369,7 @@
     <NAV>-</NAV>
     <High52W>87.82</High52W>
     <Low52W>64.38</Low52W>
-    <Change30dPercent>-5.61</Change30dPercent>
+    <Change30dPercent>-5.1</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>CONS</Symbol>
@@ -4388,7 +4388,7 @@
     <NAV>-</NAV>
     <High52W>13.2</High52W>
     <Low52W>10.2</Low52W>
-    <Change30dPercent>-90.54</Change30dPercent>
+    <Change30dPercent>-90.42</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MOM50</Symbol>
@@ -4407,7 +4407,7 @@
     <NAV>-</NAV>
     <High52W>279.33</High52W>
     <Low52W>218</Low52W>
-    <Change30dPercent>-4.79</Change30dPercent>
+    <Change30dPercent>-4.48</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MOINFRA</Symbol>
@@ -4426,7 +4426,7 @@
     <NAV>-</NAV>
     <High52W>63.8</High52W>
     <Low52W>55.26</Low52W>
-    <Change30dPercent>-3.06</Change30dPercent>
+    <Change30dPercent>-0.79</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MSCIINDIA</Symbol>
@@ -4445,7 +4445,7 @@
     <NAV>-</NAV>
     <High52W>32.14</High52W>
     <Low52W>25.6</Low52W>
-    <Change30dPercent>-3.58</Change30dPercent>
+    <Change30dPercent>-2.05</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>ECAPINSURE</Symbol>
@@ -4464,7 +4464,7 @@
     <NAV>-</NAV>
     <High52W>26.77</High52W>
     <Low52W>17.13</Low52W>
-    <Change30dPercent>-4.67</Change30dPercent>
+    <Change30dPercent>-3.68</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>FLEXIADD</Symbol>
@@ -4483,7 +4483,7 @@
     <NAV>-</NAV>
     <High52W>11.9</High52W>
     <Low52W>9.56</Low52W>
-    <Change30dPercent>-7.4</Change30dPercent>
+    <Change30dPercent>-7.04</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SNXT30BEES</Symbol>
@@ -4502,7 +4502,7 @@
     <NAV>-</NAV>
     <High52W>42.5</High52W>
     <Low52W>37.03</Low52W>
-    <Change30dPercent>-1.25</Change30dPercent>
+    <Change30dPercent>-0.54</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>AXISTECETF</Symbol>
@@ -4521,7 +4521,7 @@
     <NAV>-</NAV>
     <High52W>439.67</High52W>
     <Low52W>325.02</Low52W>
-    <Change30dPercent>-17.06</Change30dPercent>
+    <Change30dPercent>-16.63</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>ABSLNN50ET</Symbol>
@@ -4540,7 +4540,7 @@
     <NAV>-</NAV>
     <High52W>75.45</High52W>
     <Low52W>60.28</Low52W>
-    <Change30dPercent>-2.1</Change30dPercent>
+    <Change30dPercent>-1.86</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SBINEQWETF</Symbol>
@@ -4559,7 +4559,7 @@
     <NAV>-</NAV>
     <High52W>35</High52W>
     <Low52W>27.3</Low52W>
-    <Change30dPercent>-3.44</Change30dPercent>
+    <Change30dPercent>-2.78</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SBIMIDMOM</Symbol>
@@ -4597,7 +4597,7 @@
     <NAV>-</NAV>
     <High52W>291.19</High52W>
     <Low52W>236.4</Low52W>
-    <Change30dPercent>-90.52</Change30dPercent>
+    <Change30dPercent>-90.48</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GROWWPSE</Symbol>
@@ -4635,7 +4635,7 @@
     <NAV>-</NAV>
     <High52W>264.64</High52W>
     <Low52W>191.97</Low52W>
-    <Change30dPercent>-4.66</Change30dPercent>
+    <Change30dPercent>-4.17</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>TOP15IETF</Symbol>
@@ -4654,7 +4654,7 @@
     <NAV>-</NAV>
     <High52W>11.33</High52W>
     <Low52W>10</Low52W>
-    <Change30dPercent>-4.93</Change30dPercent>
+    <Change30dPercent>-4.49</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>NIFTYQLITY</Symbol>
@@ -4673,7 +4673,7 @@
     <NAV>-</NAV>
     <High52W>23.03</High52W>
     <Low52W>18.3</Low52W>
-    <Change30dPercent>-5.09</Change30dPercent>
+    <Change30dPercent>-4.21</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>EQUAL50</Symbol>
@@ -4692,7 +4692,7 @@
     <NAV>-</NAV>
     <High52W>341.7</High52W>
     <Low52W>303.44</Low52W>
-    <Change30dPercent>-3.37</Change30dPercent>
+    <Change30dPercent>-3.32</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GROWWN200</Symbol>
@@ -4711,7 +4711,7 @@
     <NAV>-</NAV>
     <High52W>12.45</High52W>
     <Low52W>9</Low52W>
-    <Change30dPercent>-4.3</Change30dPercent>
+    <Change30dPercent>-4.71</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>HDFCVALUE</Symbol>
@@ -4730,7 +4730,7 @@
     <NAV>-</NAV>
     <High52W>142.71</High52W>
     <Low52W>117.5</Low52W>
-    <Change30dPercent>-4.72</Change30dPercent>
+    <Change30dPercent>-4.08</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>LOWVOL1</Symbol>
@@ -4749,7 +4749,7 @@
     <NAV>-</NAV>
     <High52W>22.9</High52W>
     <Low52W>18.16</Low52W>
-    <Change30dPercent>-3.16</Change30dPercent>
+    <Change30dPercent>-2.93</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>NIFTYBETF</Symbol>
@@ -4768,7 +4768,7 @@
     <NAV>-</NAV>
     <High52W>272.72</High52W>
     <Low52W>220.5</Low52W>
-    <Change30dPercent>-4.93</Change30dPercent>
+    <Change30dPercent>-4.59</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>HDFCGROWTH</Symbol>
@@ -4787,7 +4787,7 @@
     <NAV>-</NAV>
     <High52W>133.3</High52W>
     <Low52W>103.11</Low52W>
-    <Change30dPercent>-6.35</Change30dPercent>
+    <Change30dPercent>-6.07</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>NPBET</Symbol>
@@ -4806,7 +4806,7 @@
     <NAV>-</NAV>
     <High52W>307</High52W>
     <Low52W>243.79</Low52W>
-    <Change30dPercent>-5.42</Change30dPercent>
+    <Change30dPercent>-4.76</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>EMULTIMQ</Symbol>
@@ -4825,7 +4825,7 @@
     <NAV>-</NAV>
     <High52W>44.97</High52W>
     <Low52W>34.73</Low52W>
-    <Change30dPercent>-3.12</Change30dPercent>
+    <Change30dPercent>-2.53</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SBIETFCON</Symbol>
@@ -4844,7 +4844,7 @@
     <NAV>-</NAV>
     <High52W>133.97</High52W>
     <Low52W>103.11</Low52W>
-    <Change30dPercent>-4.59</Change30dPercent>
+    <Change30dPercent>-4.11</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>AXISCETF</Symbol>
@@ -4863,7 +4863,7 @@
     <NAV>-</NAV>
     <High52W>131.85</High52W>
     <Low52W>104.55</Low52W>
-    <Change30dPercent>-4.71</Change30dPercent>
+    <Change30dPercent>-4.1</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MON50EQUAL</Symbol>
@@ -4882,7 +4882,7 @@
     <NAV>-</NAV>
     <High52W>34.88</High52W>
     <Low52W>29.78</Low52W>
-    <Change30dPercent>-3.59</Change30dPercent>
+    <Change30dPercent>-3.31</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>NEXT30ADD</Symbol>
@@ -4901,7 +4901,7 @@
     <NAV>-</NAV>
     <High52W>42.16</High52W>
     <Low52W>33.03</Low52W>
-    <Change30dPercent>-1.46</Change30dPercent>
+    <Change30dPercent>-0.69</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>IVZINNIFTY</Symbol>
@@ -4920,7 +4920,7 @@
     <NAV>-</NAV>
     <High52W>3150</High52W>
     <Low52W>2515.95</Low52W>
-    <Change30dPercent>-4.43</Change30dPercent>
+    <Change30dPercent>-4.49</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MOMENTUM30</Symbol>
@@ -4939,7 +4939,7 @@
     <NAV>-</NAV>
     <High52W>37.38</High52W>
     <Low52W>29.02</Low52W>
-    <Change30dPercent>-2.14</Change30dPercent>
+    <Change30dPercent>-2.02</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GROWWCHEM</Symbol>
@@ -4958,7 +4958,7 @@
     <NAV>-</NAV>
     <High52W>29.82</High52W>
     <Low52W>26.63</Low52W>
-    <Change30dPercent>-3.2</Change30dPercent>
+    <Change30dPercent>-3.71</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MOSERVICE</Symbol>
@@ -4977,7 +4977,7 @@
     <NAV>-</NAV>
     <High52W>35.37</High52W>
     <Low52W>31.28</Low52W>
-    <Change30dPercent>-6.68</Change30dPercent>
+    <Change30dPercent>-5.64</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>HEALTHADD</Symbol>
@@ -4996,7 +4996,7 @@
     <NAV>-</NAV>
     <High52W>154</High52W>
     <Low52W>129.44</Low52W>
-    <Change30dPercent>4.5</Change30dPercent>
+    <Change30dPercent>4.02</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MOPSE</Symbol>
@@ -5015,7 +5015,7 @@
     <NAV>-</NAV>
     <High52W>114.7</High52W>
     <Low52W>92.55</Low52W>
-    <Change30dPercent>-0.02</Change30dPercent>
+    <Change30dPercent>0.62</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GROWWSC250</Symbol>
@@ -5034,7 +5034,7 @@
     <NAV>-</NAV>
     <High52W>10.47</High52W>
     <Low52W>8.66</Low52W>
-    <Change30dPercent>-3.88</Change30dPercent>
+    <Change30dPercent>-3.04</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>AXSENSEX</Symbol>
@@ -5053,7 +5053,7 @@
     <NAV>-</NAV>
     <High52W>91.35</High52W>
     <Low52W>74</Low52W>
-    <Change30dPercent>-5.87</Change30dPercent>
+    <Change30dPercent>-4.95</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>TOP20</Symbol>
@@ -5072,7 +5072,7 @@
     <NAV>-</NAV>
     <High52W>9.99</High52W>
     <Low52W>8.96</Low52W>
-    <Change30dPercent>-5.47</Change30dPercent>
+    <Change30dPercent>-4.87</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>QUALITY30</Symbol>
@@ -5091,7 +5091,7 @@
     <NAV>-</NAV>
     <High52W>23.18</High52W>
     <Low52W>19.49</Low52W>
-    <Change30dPercent>-3.13</Change30dPercent>
+    <Change30dPercent>-2.85</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>ESG</Symbol>
@@ -5110,7 +5110,7 @@
     <NAV>-</NAV>
     <High52W>45.06</High52W>
     <Low52W>36</Low52W>
-    <Change30dPercent>-6.22</Change30dPercent>
+    <Change30dPercent>-5.72</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MOGSEC</Symbol>
@@ -5129,7 +5129,7 @@
     <NAV>-</NAV>
     <High52W>66.15</High52W>
     <Low52W>58.7</Low52W>
-    <Change30dPercent>0.65</Change30dPercent>
+    <Change30dPercent>-1.83</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>HDFCLOWVOL</Symbol>
@@ -5148,7 +5148,7 @@
     <NAV>-</NAV>
     <High52W>23</High52W>
     <Low52W>17.7</Low52W>
-    <Change30dPercent>-3.78</Change30dPercent>
+    <Change30dPercent>-2.9</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>AXISHCETF</Symbol>
@@ -5167,7 +5167,7 @@
     <NAV>-</NAV>
     <High52W>156.13</High52W>
     <Low52W>129.21</Low52W>
-    <Change30dPercent>4.05</Change30dPercent>
+    <Change30dPercent>4.29</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>ABSL10BANK</Symbol>
@@ -5205,7 +5205,7 @@
     <NAV>-</NAV>
     <High52W>66.7</High52W>
     <Low52W>58.05</Low52W>
-    <Change30dPercent>0.5</Change30dPercent>
+    <Change30dPercent>-1.48</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GILT10BETA</Symbol>
@@ -5224,7 +5224,7 @@
     <NAV>-</NAV>
     <High52W>26.99</High52W>
     <Low52W>24.78</Low52W>
-    <Change30dPercent>0.7</Change30dPercent>
+    <Change30dPercent>0.15</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SNXT50BETA</Symbol>
@@ -5243,7 +5243,7 @@
     <NAV>-</NAV>
     <High52W>102.25</High52W>
     <Low52W>75.74</Low52W>
-    <Change30dPercent>-3.88</Change30dPercent>
+    <Change30dPercent>-3.42</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>NEXT50ETF</Symbol>
@@ -5262,7 +5262,7 @@
     <NAV>-</NAV>
     <High52W>72.97</High52W>
     <Low52W>65.51</Low52W>
-    <Change30dPercent>-0.53</Change30dPercent>
+    <Change30dPercent>-0.25</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>ABSLLIQUID</Symbol>
@@ -5300,7 +5300,7 @@
     <NAV>-</NAV>
     <High52W>143.99</High52W>
     <Low52W>124.95</Low52W>
-    <Change30dPercent>0.47</Change30dPercent>
+    <Change30dPercent>0.48</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MOMGF</Symbol>
@@ -5319,7 +5319,7 @@
     <NAV>-</NAV>
     <High52W>182.16</High52W>
     <Low52W>139.07</Low52W>
-    <Change30dPercent>0.12</Change30dPercent>
+    <Change30dPercent>0.62</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MONEXT50</Symbol>
@@ -5338,7 +5338,7 @@
     <NAV>-</NAV>
     <High52W>72.3</High52W>
     <Low52W>63.54</Low52W>
-    <Change30dPercent>-2.45</Change30dPercent>
+    <Change30dPercent>-1.68</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>EBANKNIFTY</Symbol>
@@ -5357,7 +5357,7 @@
     <NAV>-</NAV>
     <High52W>69.39</High52W>
     <Low52W>47</Low52W>
-    <Change30dPercent>-4.16</Change30dPercent>
+    <Change30dPercent>-3.08</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>LICNETFGSC</Symbol>
@@ -5376,7 +5376,7 @@
     <NAV>-</NAV>
     <High52W>30.05</High52W>
     <Low52W>26.83</Low52W>
-    <Change30dPercent>1.05</Change30dPercent>
+    <Change30dPercent>0.84</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>IDFNIFTYET</Symbol>
@@ -5395,7 +5395,7 @@
     <NAV>-</NAV>
     <High52W>340.8</High52W>
     <Low52W>235.01</Low52W>
-    <Change30dPercent>-4.8</Change30dPercent>
+    <Change30dPercent>-4.42</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>HDFCQUAL</Symbol>
@@ -5414,7 +5414,7 @@
     <NAV>-</NAV>
     <High52W>61.87</High52W>
     <Low52W>49.83</Low52W>
-    <Change30dPercent>-3.85</Change30dPercent>
+    <Change30dPercent>-3.67</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>DIVIDEND</Symbol>
@@ -5433,7 +5433,7 @@
     <NAV>-</NAV>
     <High52W>38.03</High52W>
     <Low52W>35.31</Low52W>
-    <Change30dPercent>-4.28</Change30dPercent>
+    <Change30dPercent>-3.68</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SENSEXADD</Symbol>
@@ -5452,7 +5452,7 @@
     <NAV>-</NAV>
     <High52W>88.2</High52W>
     <Low52W>72</Low52W>
-    <Change30dPercent>-5.75</Change30dPercent>
+    <Change30dPercent>-5.3</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>AONETMMQ50</Symbol>
@@ -5471,7 +5471,7 @@
     <NAV>-</NAV>
     <High52W>10.5</High52W>
     <Low52W>8</Low52W>
-    <Change30dPercent>-0.62</Change30dPercent>
+    <Change30dPercent>-0.1</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>SELECTIPO</Symbol>
@@ -5490,7 +5490,7 @@
     <NAV>-</NAV>
     <High52W>57.75</High52W>
     <Low52W>35.4</Low52W>
-    <Change30dPercent>-6.46</Change30dPercent>
+    <Change30dPercent>-6.4</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>LICNMID100</Symbol>
@@ -5509,7 +5509,7 @@
     <NAV>-</NAV>
     <High52W>67.5</High52W>
     <Low52W>47.53</Low52W>
-    <Change30dPercent>-3.98</Change30dPercent>
+    <Change30dPercent>-3.19</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MOALPHA50</Symbol>
@@ -5528,7 +5528,7 @@
     <NAV>-</NAV>
     <High52W>54.38</High52W>
     <Low52W>46.05</Low52W>
-    <Change30dPercent>-0.71</Change30dPercent>
+    <Change30dPercent>-0.12</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>ITBETA</Symbol>
@@ -5547,7 +5547,7 @@
     <NAV>-</NAV>
     <High52W>410</High52W>
     <Low52W>312</Low52W>
-    <Change30dPercent>-16.96</Change30dPercent>
+    <Change30dPercent>-16.26</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>INFRA</Symbol>
@@ -5585,7 +5585,7 @@
     <NAV>-</NAV>
     <High52W>72.25</High52W>
     <Low52W>64</Low52W>
-    <Change30dPercent>-1.97</Change30dPercent>
+    <Change30dPercent>-2.07</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GILT5BETA</Symbol>
@@ -5604,7 +5604,7 @@
     <NAV>-</NAV>
     <High52W>66.37</High52W>
     <Low52W>60.05</Low52W>
-    <Change30dPercent>0.94</Change30dPercent>
+    <Change30dPercent>1.78</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GROWWMC150</Symbol>
@@ -5623,7 +5623,7 @@
     <NAV>-</NAV>
     <High52W>228.97</High52W>
     <Low52W>206.6</Low52W>
-    <Change30dPercent>-3.35</Change30dPercent>
+    <Change30dPercent>-3.54</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MIDCAPBETA</Symbol>
@@ -5642,7 +5642,7 @@
     <NAV>-</NAV>
     <High52W>235.48</High52W>
     <Low52W>178.1</Low52W>
-    <Change30dPercent>-4.24</Change30dPercent>
+    <Change30dPercent>-3.48</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>BBNPNBETF</Symbol>
@@ -5661,7 +5661,7 @@
     <NAV>-</NAV>
     <High52W>62.77</High52W>
     <Low52W>47.43</Low52W>
-    <Change30dPercent>-4</Change30dPercent>
+    <Change30dPercent>-2.88</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>LICNETFN50</Symbol>
@@ -5680,7 +5680,7 @@
     <NAV>-</NAV>
     <High52W>295</High52W>
     <Low52W>239.65</Low52W>
-    <Change30dPercent>-4.68</Change30dPercent>
+    <Change30dPercent>-4.05</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MOQUALITY</Symbol>
@@ -5699,7 +5699,7 @@
     <NAV>-</NAV>
     <High52W>225.6</High52W>
     <Low52W>162.15</Low52W>
-    <Change30dPercent>-3.59</Change30dPercent>
+    <Change30dPercent>-3.08</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GROWWLOVOL</Symbol>
@@ -5718,7 +5718,7 @@
     <NAV>-</NAV>
     <High52W>11.5</High52W>
     <Low52W>9</Low52W>
-    <Change30dPercent>-1.52</Change30dPercent>
+    <Change30dPercent>-1.05</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GSEC10IETF</Symbol>
@@ -5737,7 +5737,7 @@
     <NAV>-</NAV>
     <High52W>265.36</High52W>
     <Low52W>244.18</Low52W>
-    <Change30dPercent>1.24</Change30dPercent>
+    <Change30dPercent>0.35</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GSEC10YEAR</Symbol>
@@ -5756,7 +5756,7 @@
     <NAV>-</NAV>
     <High52W>31</High52W>
     <Low52W>27.76</Low52W>
-    <Change30dPercent>1.35</Change30dPercent>
+    <Change30dPercent>1.01</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>EQUAL200</Symbol>
@@ -5775,7 +5775,7 @@
     <NAV>-</NAV>
     <High52W>13.96</High52W>
     <Low52W>11.03</Low52W>
-    <Change30dPercent>-2.92</Change30dPercent>
+    <Change30dPercent>-2.78</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MOMNC</Symbol>
@@ -5794,7 +5794,7 @@
     <NAV>-</NAV>
     <High52W>35.8</High52W>
     <Low52W>28.7</Low52W>
-    <Change30dPercent>0</Change30dPercent>
+    <Change30dPercent>0.39</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>LICNFNHGP</Symbol>
@@ -5813,7 +5813,7 @@
     <NAV>-</NAV>
     <High52W>296.41</High52W>
     <Low52W>242.47</Low52W>
-    <Change30dPercent>-4.7</Change30dPercent>
+    <Change30dPercent>-4.14</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>ABGSEC</Symbol>
@@ -5851,7 +5851,7 @@
     <NAV>-</NAV>
     <High52W>53</High52W>
     <Low52W>40.5</Low52W>
-    <Change30dPercent>-6.33</Change30dPercent>
+    <Change30dPercent>-6.07</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>ENIFTY</Symbol>
@@ -5870,7 +5870,7 @@
     <NAV>-</NAV>
     <High52W>27.22</High52W>
     <Low52W>24.36</Low52W>
-    <Change30dPercent>-4.92</Change30dPercent>
+    <Change30dPercent>-4.99</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>MOLOWVOL</Symbol>
@@ -5889,7 +5889,7 @@
     <NAV>-</NAV>
     <High52W>43.07</High52W>
     <Low52W>33.05</Low52W>
-    <Change30dPercent>-2.79</Change30dPercent>
+    <Change30dPercent>-2.74</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>LICNETFSEN</Symbol>
@@ -5908,7 +5908,7 @@
     <NAV>-</NAV>
     <High52W>989</High52W>
     <Low52W>808.11</Low52W>
-    <Change30dPercent>-5.93</Change30dPercent>
+    <Change30dPercent>-5.33</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>ESENSEX</Symbol>
@@ -5927,7 +5927,7 @@
     <NAV>-</NAV>
     <High52W>88.05</High52W>
     <Low52W>78.72</Low52W>
-    <Change30dPercent>-4.84</Change30dPercent>
+    <Change30dPercent>-5.59</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>LOWVOL</Symbol>
@@ -5946,7 +5946,7 @@
     <NAV>-</NAV>
     <High52W>219.1</High52W>
     <Low52W>180.04</Low52W>
-    <Change30dPercent>-3.13</Change30dPercent>
+    <Change30dPercent>-2.55</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>ABSLMSCIN</Symbol>
@@ -5984,7 +5984,7 @@
     <NAV>-</NAV>
     <High52W>33.82</High52W>
     <Low52W>28.84</Low52W>
-    <Change30dPercent>-4.43</Change30dPercent>
+    <Change30dPercent>-3.95</Change30dPercent>
   </ETF>
   <ETF>
     <Symbol>GSEC10ABSL</Symbol>
@@ -6003,6 +6003,6 @@
     <NAV>-</NAV>
     <High52W>111.9</High52W>
     <Low52W>104.3</Low52W>
-    <Change30dPercent>1.14</Change30dPercent>
+    <Change30dPercent>0.66</Change30dPercent>
   </ETF>
 </NSE_ETF_Data>
